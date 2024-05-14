@@ -144,7 +144,7 @@ body {
 /* End Header */
 /* Start Landing */
 .landing {
-    background-image: url(/imges/landing.jpg);
+    overflow: hidden;
     height: 100vh;
     margin-top: -10px;
     position: relative;
